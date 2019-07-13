@@ -1,5 +1,5 @@
 # Psychic-Game
-You're going to make a game just like the one in the video. Essentially, the app randomly picks a letter, and the user has to guess which letter the app chose. Put the following text on your page:
+The app randomly picks a letter, and the user has to guess which letter the app chose. Put the following text on your page:
 Guess what letter I'm thinking of
 Wins: (# of times the user has guessed the letter correctly)
 Losses: (# of times the user has failed to guess the letter correctly after exhausting all guesses)
