@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    background-image: url(https://cf.ltkcdn.net/paranormal/images/orig/229614-2121x1414-clairvoyant-with-crystal-ball.jpg);
+    background-size: cover;
+  
+}
+
+h1 {
+    color: whitesmoke;
+    font-family: Helvetica;
+    font-size: 50px;
+    font-style: oblique;
+    text-align: center;
+    width: 300px;
+    border: 15px;
+    padding: 50px;
+    margin: 30px;
+}
+
+h2 {
+    color: whitesmoke;
+    font-family: Helvetica;
+    font-size: 30px;
+    font-style: oblique;
+    width: 150px;
+    border: 5px;
+    padding: 20px;
+    margin: 10px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: whitesmoke;
+    width: 100px;
+    border: 5px;
+    padding: 5px;
+    margin: 10px;
+
+}
+
+
